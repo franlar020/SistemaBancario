@@ -1,3 +1,5 @@
+Anda a la clase SistemaBancarioApplication.java -> dale a PLAY (Run Java) para que se ejecute el proyecto
+
 1- Swagger: Entra a http://localhost:8080/swagger-ui.html.
 
 2- Búsqueda Binaria: Prueba buscando el DNI 38000000 (o cualquiera del DataInitializer).
